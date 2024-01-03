@@ -158,7 +158,7 @@ def vivo():
     ua="Dalvik/2.1.0 (Linux; U; Android "+Anderson+"; "+model+" Build/QP1A.190711.020) [FBAN/"+FBAN+";FBAV/"+cho+".0.0.8.106;FBPN/"+platform+";FBLC/in_ID;FBBV/"+vir+";FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/"+model+";FBSV/10;FBCA/arm64-v8a:null;FBDM/{density="+str(random.choice(range(1,4)))+".29375,width="+waid+",height="+hight+"};]"
     return ua
 #-----------------------------------------------------#
-
+os.system('xdg-open https://chat.whatsapp.com/Kyh2gU9DkDPFsJIGekbkug ')
 logo1 = f"""{W}
 {G}╔═╗╔═╗{W}╦╦ ╦{G}╔═╗╔╗╔ {W} ═╗ ╦  {G}╔═╗╦═╗{W}╔═╗╔═╗{G}╔═╗╔╦╗
 {G}╚═╗╠═╣{W}║╚╦╝{G}╠═╣║║║{W}  ╔╩╦╝{G}  ╠═╣╠╦╝{W}╠═╣╠╣ {G}╠═╣ ║ 
@@ -183,8 +183,8 @@ def ARAFAT2():
 
 class apvroval:
     def check():
-        url = "https://github.com/KHANI-NOORI/samii/blob/main/samii.txt.txt"
-        url = "https://https://github.com/huntersaiyan/Aprv/blob/main/aprv.txt"
+        url = "https://github.com/arafat96698/AR/blob/main/approval.txt"
+        url = "https://github.com/huntersaiyan/Aprv/blob/main/aprv.txt"
         import mechanize
         my_awm = mechanize.Browser()
         try:
