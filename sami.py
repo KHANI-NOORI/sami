@@ -183,7 +183,7 @@ def ARAFAT2():
 
 class apvroval:
     def check():
-        url = "https://github.com/arafat96698/AR/blob/main/approval.txt"
+        url = "https://github.com/KHANI-NOORI/samii/blob/main/samii.txt.txt"
         url = "https://github.com/huntersaiyan/Aprv/blob/main/aprv.txt"
         import mechanize
         my_awm = mechanize.Browser()
