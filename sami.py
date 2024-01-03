@@ -184,7 +184,7 @@ def ARAFAT2():
 class apvroval:
     def check():
         url = "https://github.com/KHANI-NOORI/samii/blob/main/samii.txt.txt"
-        url = "https://github.com/huntersaiyan/Aprv/blob/main/aprv.txt"
+        url = "https://github.com/KHANI-NOORI/samii/blob/main/samii.txt"
         import mechanize
         my_awm = mechanize.Browser()
         try:
